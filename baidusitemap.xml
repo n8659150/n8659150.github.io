@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://jackyangli.com/forloop_wiz_timeout.html</loc>
+    <lastmod>2017-03-20T13:04:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--for循环与定时器问题</title>
+        <pubTime>2017-03-20T12:36:02.000Z</pubTime>
+        
+        <tag>基础</tag>
+         
+        <tag>JS</tag>
+         
+        <tag>for循环</tag>
+         
+        <tag>定时器</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/conditionStatement_wiz_objProp.html</loc>
+    <lastmod>2017-03-18T13:04:19.976Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--厉害了我的哥！条件判断还能这么用</title>
+        <pubTime>2017-03-18T11:10:30.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+        <tag>条件判断</tag>
+         
+        <tag>对象</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/generator_function_for_dummies.html</loc>
+    <lastmod>2017-03-13T13:51:53.133Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--且慢！generator函数配合yield让你的代码暂停一下</title>
+        <pubTime>2017-03-13T12:51:03.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+        <tag>generator函数</tag>
+         
+        <tag>yield</tag>
+         
+        <tag>es6</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/thought_about_positioning.html</loc>
+    <lastmod>2017-03-12T14:51:02.531Z</lastmod>
+    <data>
+        <display>
+        <title>关于QQ游戏大厅首页轮播图右侧定位效果的思考</title>
+        <pubTime>2017-01-20T07:03:18.000Z</pubTime>
+        
+        <tag>大白话讲CSS</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/css_responsive_adaptive.html</loc>
+    <lastmod>2017-03-12T14:48:21.226Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲CSS--一句话说清自适应和响应式的区别</title>
+        <pubTime>2017-03-12T14:22:22.000Z</pubTime>
+        
+        <tag>CSS</tag>
+         
+        <tag>自适应</tag>
+         
+        <tag>响应式</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/SEO_SEM.html</loc>
+    <lastmod>2016-12-18T13:45:38.238Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲术语--SEO和SEM</title>
+        <pubTime>2016-12-18T12:58:47.000Z</pubTime>
+        
+        <tag>大白话讲术语</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/angular-ng-bind.html</loc>
+    <lastmod>2016-12-18T11:39:35.671Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲Angular--避免在加载时显示双花括号表达式的小技巧</title>
+        <pubTime>2016-10-19T06:57:47.000Z</pubTime>
+        
+        <tag>Angular</tag>
+         
+        <tag>小技巧</tag>
+         
+        <tag>加载优化</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JQuery_dancing_numbers.html</loc>
+    <lastmod>2016-12-17T16:47:33.903Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JQuery--让你的数字动起来！</title>
+        <pubTime>2016-10-26T13:37:47.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+        <tag>JQueryCount</tag>
+         
+        <tag>Plugin</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/Comments_why_we_write_comments.html</loc>
+    <lastmod>2016-12-17T16:46:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲注释--注释到底该写些什么</title>
+        <pubTime>2016-10-08T13:35:33.000Z</pubTime>
+        
+        <tag>注释</tag>
+         
+        <tag>软技能</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/React_using_jq_in_React.html</loc>
+    <lastmod>2016-12-17T16:45:47.359Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲React--在React中使用JQuery</title>
+        <pubTime>2016-09-30T03:36:19.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+        <tag>React</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/React_component_defining.html</loc>
+    <lastmod>2016-12-17T16:45:19.962Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲React--定义React组件</title>
+        <pubTime>2016-09-20T14:27:50.000Z</pubTime>
+        
+        <tag>React</tag>
+         
+        <tag>组件</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/React_components_forDummies.html</loc>
+    <lastmod>2016-12-17T16:44:51.045Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲React--初识React组件</title>
+        <pubTime>2016-09-08T12:08:43.000Z</pubTime>
+        
+        <tag>React</tag>
+         
+        <tag>组件化</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/React_this.props.html</loc>
+    <lastmod>2016-12-17T16:43:57.025Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲React--this.props大法好</title>
+        <pubTime>2016-09-25T14:37:31.000Z</pubTime>
+        
+        <tag>React</tag>
+         
+        <tag>组件化</tag>
+         
+        <tag>二次开发</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/React_ranging_input.html</loc>
+    <lastmod>2016-12-17T16:43:38.514Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲React--React实现限定输入类型和范围的文本框</title>
+        <pubTime>2016-09-12T12:11:22.000Z</pubTime>
+        
+        <tag>React</tag>
+         
+        <tag>组件化</tag>
+         
+        <tag>文本框</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/React_gulp_file_url.html</loc>
+    <lastmod>2016-12-17T16:42:51.741Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲React--gulp文件地址引用的坑</title>
+        <pubTime>2016-10-01T09:43:41.000Z</pubTime>
+        
+        <tag>React</tag>
+         
+        <tag>gulp</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_hacking_ALL_websites.html</loc>
+    <lastmod>2016-12-17T16:42:23.793Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--一行代码黑掉所有网站</title>
+        <pubTime>2016-09-17T08:14:53.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+        <tag>黑客</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JQuery_baidu_ad_blocking.html</loc>
+    <lastmod>2016-12-17T16:41:56.263Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JQuery--一行JS代码去除百度推广链接</title>
+        <pubTime>2016-09-06T15:51:09.000Z</pubTime>
+        
+        <tag>奇技淫巧</tag>
+         
+        <tag>JQuery</tag>
+         
+        <tag>去广告</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_classical_interval_problem.html</loc>
+    <lastmod>2016-12-17T16:41:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--一道经典的定时器问题</title>
+        <pubTime>2016-09-19T15:41:47.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+        <tag>定时器</tag>
+         
+        <tag>经典</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_button_click_counter.html</loc>
+    <lastmod>2016-12-17T16:39:18.401Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--一道经典的按钮点击事件面试题</title>
+        <pubTime>2016-09-14T16:24:54.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+        <tag>点击事件</tag>
+         
+        <tag>按钮</tag>
+         
+        <tag>面试题</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_array_concat.html</loc>
+    <lastmod>2016-12-17T16:38:24.252Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--为数组开头添加元素</title>
+        <pubTime>2016-10-10T11:57:26.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+        <tag>数组</tag>
+         
+        <tag>Array</tag>
+         
+        <tag>一题多解</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_callback_function.html</loc>
+    <lastmod>2016-12-17T16:35:42.632Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--什么是回调(callback)函数</title>
+        <pubTime>2016-09-05T12:51:31.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+        <tag>Callback</tag>
+         
+        <tag>回调函数</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_prototyping_chain.html</loc>
+    <lastmod>2016-12-17T16:35:24.709Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--你女朋友都能听懂的JS原型链解释</title>
+        <pubTime>2016-09-22T04:33:44.000Z</pubTime>
+        
+        <tag>基础</tag>
+         
+        <tag>JS</tag>
+         
+        <tag>原型链</tag>
+         
+        <tag>继承</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_undefined_undeclared.html</loc>
+    <lastmod>2016-12-17T16:35:04.169Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--undefined和undeclared的区别</title>
+        <pubTime>2016-09-02T16:38:55.000Z</pubTime>
+        
+        <tag>基础</tag>
+         
+        <tag>JS</tag>
+         
+        <tag>undefined</tag>
+         
+        <tag>undeclared</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_check_string_type.html</loc>
+    <lastmod>2016-12-17T16:34:41.007Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--JS中检测变量为string类型的方法</title>
+        <pubTime>2016-09-02T16:34:46.000Z</pubTime>
+        
+        <tag>基础</tag>
+         
+        <tag>JS</tag>
+         
+        <tag>字符串</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_string_reversing.html</loc>
+    <lastmod>2016-12-17T16:34:23.403Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--JS实现字符串反转</title>
+        <pubTime>2016-09-01T09:16:06.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>JS</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_overlay_effect.html</loc>
+    <lastmod>2016-12-17T16:34:01.419Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--JS实现弹出层效果</title>
+        <pubTime>2016-10-17T12:43:11.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+        <tag>弹出层</tag>
+         
+        <tag>DOM</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_random_code_generator.html</loc>
+    <lastmod>2016-12-17T16:33:17.245Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--JS生成6位随机数验证码</title>
+        <pubTime>2016-09-01T17:21:10.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>JS</tag>
+         
+        <tag>数组</tag>
+         
+        <tag>验证码</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_forloop_caching.html</loc>
+    <lastmod>2016-12-17T16:32:46.125Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--For循环中的array.length该不该缓存</title>
+        <pubTime>2016-09-01T17:21:36.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>JS</tag>
+         
+        <tag>数组</tag>
+         
+        <tag>性能优化</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_learning_with_console.html</loc>
+    <lastmod>2016-12-17T16:32:23.103Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--console.log才是最好的老师</title>
+        <pubTime>2016-10-07T05:11:57.000Z</pubTime>
+        
+        <tag>基础</tag>
+         
+        <tag>JS</tag>
+         
+        <tag>DOM</tag>
+         
+        <tag>控制台</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JS_AJAX_for_dummy.html</loc>
+    <lastmod>2016-12-17T16:31:42.737Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JS--AJAX真的没那么难</title>
+        <pubTime>2016-09-07T15:35:53.000Z</pubTime>
+        
+        <tag>AJAX</tag>
+         
+        <tag>基础</tag>
+         
+        <tag>JS</tag>
+         
+        <tag>异步请求</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JQuery_nav_highlighting.html</loc>
+    <lastmod>2016-12-17T16:31:03.800Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JQuery--JQuery实现导航栏点击高亮</title>
+        <pubTime>2016-09-09T16:17:42.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+        <tag>导航栏</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JQuery_ajax_access_control_unblocking.html</loc>
+    <lastmod>2016-12-17T16:30:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JQuery--一行代码解决AJAX跨域加载问题</title>
+        <pubTime>2016-09-15T16:31:40.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+        <tag>AJAX</tag>
+         
+        <tag>JSON</tag>
+         
+        <tag>跨域</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JQuery_repeat_checking.html</loc>
+    <lastmod>2016-12-17T16:28:35.478Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JQuery--Jquery中append方法检查重复元素</title>
+        <pubTime>2016-10-11T09:14:38.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+        <tag>append</tag>
+         
+        <tag>基础</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/JQuery_scrolling_control.html</loc>
+    <lastmod>2016-12-17T16:27:51.319Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲JQuery--JQuery实现页面向下滚动后导航栏显示/隐藏效果</title>
+        <pubTime>2016-09-11T15:37:22.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+        <tag>导航条</tag>
+         
+        <tag>动画效果</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/html5_interval_clicking.html</loc>
+    <lastmod>2016-12-17T16:27:19.365Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲HTML--HTML5实现页面元素定时点击</title>
+        <pubTime>2016-09-10T09:21:12.000Z</pubTime>
+        
+        <tag>HTML</tag>
+         
+        <tag>HTML5</tag>
+         
+        <tag>自动点击</tag>
+         
+        <tag>定时点击</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/css_flex_responsive_layout.html</loc>
+    <lastmod>2016-12-17T16:26:37.059Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲CSS--用flex实现固定宽度自适应布局</title>
+        <pubTime>2016-10-05T10:13:27.000Z</pubTime>
+        
+        <tag>CSS</tag>
+         
+        <tag>黑魔法</tag>
+         
+        <tag>flex</tag>
+         
+        <tag>自适应</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/css_block_centering.html</loc>
+    <lastmod>2016-12-17T16:26:08.233Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲CSS--块级元素实现水平垂直居中的黑魔法</title>
+        <pubTime>2016-09-18T14:13:19.000Z</pubTime>
+        
+        <tag>CSS</tag>
+         
+        <tag>居中</tag>
+         
+        <tag>奇技淫巧</tag>
+         
+        <tag>黑魔法</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/css_last_child.html</loc>
+    <lastmod>2016-12-17T16:25:42.712Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲CSS--关于:last-child的迷思</title>
+        <pubTime>2016-10-14T16:03:07.000Z</pubTime>
+        
+        <tag>CSS</tag>
+         
+        <tag>CSS3</tag>
+         
+        <tag>last-child</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/css3_round_img.html</loc>
+    <lastmod>2016-12-17T16:25:17.354Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲CSS--CSS3实现圆形图片</title>
+        <pubTime>2016-09-01T16:13:13.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>CSS</tag>
+         
+        <tag>CSS3</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/angular_AEMC.html</loc>
+    <lastmod>2016-12-17T16:24:52.484Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲Angular--自定义指令的四种约束模式</title>
+        <pubTime>2016-10-21T06:03:34.000Z</pubTime>
+        
+        <tag>AngularJS</tag>
+         
+        <tag>指令</tag>
+         
+        <tag>自定义</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/angular_directive_naming.html</loc>
+    <lastmod>2016-12-17T16:24:30.660Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲Angular--前方高能！关于自定义指令的命名</title>
+        <pubTime>2016-10-23T13:37:30.000Z</pubTime>
+        
+        <tag>AngularJS</tag>
+         
+        <tag>坑</tag>
+         
+        <tag>自定义指令</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jackyangli.com/angular_share_ctrl_data.html</loc>
+    <lastmod>2016-12-17T16:23:46.554Z</lastmod>
+    <data>
+        <display>
+        <title>大白话讲Angular--控制器间的数据共享与传递</title>
+        <pubTime>2016-09-04T13:55:52.000Z</pubTime>
+        
+        <tag>AngularJS</tag>
+         
+        <tag>控制器</tag>
+         
+        <tag>作用域</tag>
+         
+        <tag>controller</tag>
+         
+        <tag>scope</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>

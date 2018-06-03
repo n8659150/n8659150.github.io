@@ -1,0 +1,5 @@
+# hexo robots.txt
+User-agent: *
+Disallow: 
+Sitemap: http://www.jackyangli.com/sitemap.xml
+Sitemap: http://www.jackyangli.com/baidusitemap.xml
